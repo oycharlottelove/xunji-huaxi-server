@@ -1,0 +1,11 @@
+{
+  "name": "xunji-huaxi",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@netlify/blobs": "^11.1.9"
+  }
+}
